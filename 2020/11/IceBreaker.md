@@ -88,3 +88,27 @@
 是什么社区，都是每个人提升自己，结交好友的地方。我希望自己在不同的社区，能够帮助到不同的人，一起进步。
 
 感谢大家的倾听，让我们一同成长吧！
+
+First of all thank Peffier for his encouragement, and I am sorry that this agreement is a bit late. Thank you Mary for communicating with me and reminding me for your patient guidance. thank you all.
+
+I grew up with subsidies from the state and the help of relatives and friends, so when I grow up I hope that I can contribute my own strength to this society. Later I found that the community can help me do this.
+
+What I want to share with you today is my connection with the community. As a community manager of the FCC, in addition to organizing events, I sometimes shares technical knowledge and acts as a host. Neither the presentation skills nor the hosting skills are very good. This is also the reason why I joined TM. I hope to improve my ability in this area through TM, and I also hope to improve my English listening and speaking ability, which is not only needed in work, but also in normal community activities.
+
+In the software industry, everyone knows that we have many communities, such as the Linx community, the Devops community, etc., and I am very fortunate to be a member of the FCC, the world's largest open source community.
+
+How did I reach the community? i contact with the community when I entered the university, and it may be more appropriate to call it a club at university.
+The first association I joined was the Youth Volunteer Association. Since then, I feel that the association can not only improve my abilities, but also help others.
+After joining the work, I accidentally came into contact with the FCC, which is a non-profit community that helps people all over the world learn programming for free.
+In addition to these communities, what other communities have I participated in?
+
+This is now TM. The first time I heard about TM, I learned about it during a chat with a friend. At that time, I didn’t know what TM did. Later, this friend told me that he learned the skills of speaking here. , Because he is an agile coach himself, he needs to master these skills, and after listening to it, I feel that this is what I need.
+After I came into contact with these communities, I certainly acted silently.
+
+In the Youth Volunteers Association, the most meaningful fundraiser was for the Ya'an Earthquake. I was very touched by the enthusiastic participation of all teachers and students. In FCC, I think what makes sense is to provide you with a good technical exchange platform, and also to help many friends who love programming find jobs.
+
+It is precisely because of joining the FCC that I have made many new friends, including the aforementioned agile coach, who also learned about the existence of TM from him.
+
+What kind of community it is is a place for everyone to improve themselves and make friends. I hope that I can help different people in different communities and make progress together.
+
+Thank you for listening, let us grow together!
